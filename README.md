@@ -6,7 +6,8 @@
 # `My goals`
 
 * Have my own company
-* Make open source software that people need
+* Make open source solutions
+* Offer cheap IT services
 
 # `I worked with`
 
@@ -42,3 +43,8 @@
 [![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=vscode&logoColor=white)](https://code.visualstudio.com)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+
+## `Don't forget to check`
+* My [Gists profile](https://gist.github.com/pundang)
+* My [LinkedIn profile](https://www.linkedin.com/in/pundang/)
+* My [YouTube channel](https://www.youtube.com/@apundang)
