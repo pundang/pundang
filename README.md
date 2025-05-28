@@ -36,7 +36,7 @@
 
 [![Wpf](https://img.shields.io/badge/Wpf-000000?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf)
 [![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io)
-[![Avalonia](https://img.shields.io/badge/Avalonia-693381?style=for-the-badge&logoColor=white)](https://www.qt.io)
+[![Avalonia](https://img.shields.io/badge/Avalonia-693381?style=for-the-badge&logoColor=white)](https://avaloniaui.net/)
 
 > IDEs
 
