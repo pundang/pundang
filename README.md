@@ -1,6 +1,4 @@
-<div align="center">
-  <h3>Welcome to my profile!</h3>
-</div>
+<h3 align="center">Welcome to my profile!</h3>
 
 # `My goals`
 
