@@ -1,6 +1,5 @@
 <div align="center">
   <h3>Welcome to my profile!</h3>
-  <i>I'm Axel, I was born in Buenos Aires, Argentina and I'm on my way to starting my Computer Engineering career</i>
 </div>
 
 # `My goals`
