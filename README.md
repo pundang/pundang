@@ -1,12 +1,9 @@
 <h3 align="center">Welcome to my profile!</h3>
+<h5 align="center">Hi 👋, I'm Axel, an 18 years old student from Buenos Aires, Argentina.</h5>
 
-# `My goals`
+# Featured projects
 
-* Have my own company
-* Make open source solutions
-* Offer cheap IT services
-
-# `I worked with`
+- [Voxxel](https://www.voxxel.xyz) – A free Minecraft Java launcher built with Rust and modern web technologies
 
 > Languages
 
