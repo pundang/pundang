@@ -5,6 +5,8 @@
 
 - [Voxxel](https://www.voxxel.xyz) – A free Minecraft Java launcher built with Rust and modern web technologies
 
+# Knowledge
+
 > Languages
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
