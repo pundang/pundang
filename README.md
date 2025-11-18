@@ -4,7 +4,6 @@
 # Featured projects
 
 - [Dreamcore's website](https://www.dreamcoregame.com/) - Website for the game "Dreamcore", by Montraluz.
-- [Voxxel](https://www.voxxel.xyz) – A free Minecraft Java launcher built with Rust and modern web technologies
 
 # Knowledge
 
