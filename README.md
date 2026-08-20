@@ -4,10 +4,6 @@
 
 ## Featured projects
 
-- [Portfolio](https://pundang.xyz) - My portfolio ❤️.
-- [MCServerManager](https://github.com/pundang/mcservermanager) - GUI tool for creating and managing Minecraft Java gameservers.
-- [Dreamcore's website](https://www.dreamcoregame.com/) - Website for the game "Dreamcore", by Montraluz.
-
 <div align="center">
   <a href="https://dreamcoregame.com">
     <img alt="ASD" src="images/dreamcore.webp" width="200">
