@@ -5,11 +5,11 @@
 ## Featured projects
 
 <div align="center">
-  <a href="https://dreamcoregame.com">
-    <img alt="ASD" src="images/dreamcore.webp" width="200">
-  </a>
   <a href="https://github.com/pundang/mcservermanager">
-    <img alt="ASD" src="images/mcservermanager.webp" width="200">
+    <img alt="MCServerManager" src="images/mcservermanager.webp" width="45%">
+  </a>
+  <a href="https://dreamcoregame.com">
+    <img alt="Dreamcore" src="images/dreamcore.webp" width="45%">
   </a>
 </div>
 
